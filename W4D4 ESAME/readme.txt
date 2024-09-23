@@ -1,0 +1,1 @@
+Ho inziato a lavorare con questa struttura e poi mi dava errore nel riaprire le query percio ho caricato con la cartella di base che ho usato
